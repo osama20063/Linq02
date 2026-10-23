@@ -169,6 +169,20 @@
             //    Console.WriteLine("Product with ID 18 not found.");
             //}
             #endregion
+
+            #region Question 16
+            //var result = ProductList.FirstOrDefault(p => p.UnitPrice > 50);
+
+            //if (result != null)
+            //{
+            //    Console.WriteLine($"Name: {result.ProductName}, Price: {result.UnitPrice}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("No product found.");
+            //}
+            #endregion
+
         }
     }
 }
