@@ -87,6 +87,23 @@
             //}
             #endregion
 
+
+
+            #region Question 9
+            //var result = from c in CustomerList
+            //             group c by c.Country into g
+            //             select new
+            //             {
+            //                 Country = g.Key,
+            //                 Count = g.Count(),
+            //                 TotalOrderValue = g.Sum(c => c.Orders.Sum(o => o.Total))
+            //             };
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Country: {item.Country}, Count: {item.Count}, TotalOrderValue: {item.TotalOrderValue}");
+            //}
+            #endregion
         }
     }
 }
