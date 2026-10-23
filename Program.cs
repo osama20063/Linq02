@@ -49,6 +49,16 @@
             #endregion
 
 
+
+            #region Question 6
+            //var result = ProductList.GroupBy(p => p.Category)
+            //                       .Select(g => new { Category = g.Key, Count = g.Count() });
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Category: {item.Category}, Count: {item.Count}");
+            //}
+            #endregion
         }
     }
 }
