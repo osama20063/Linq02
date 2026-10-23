@@ -206,6 +206,16 @@
             //    Console.WriteLine($"7 * {item.Number} = {item.Multiple}");
             //}
             #endregion
+
+            #region Question 19
+            //var result = Enumerable.Range(1, 30).Where(n => n % 2 == 0);
+
+            //foreach (var number in result)
+            //{
+            //    Console.WriteLine(number);
+            //}
+            #endregion
+
         }
     }
 }
