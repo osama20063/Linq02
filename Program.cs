@@ -12,6 +12,17 @@
             //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
             //}
             #endregion
+
+
+            #region Question 2
+            //var result = ProductList.Skip(5).Take(5);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+            #endregion
+
         }
     }
 }
