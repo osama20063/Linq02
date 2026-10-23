@@ -183,6 +183,19 @@
             //}
             #endregion
 
+
+            #region Question 17
+            //var result = ProductList.FirstOrDefault(p => p.UnitPrice > 500);
+
+            //if (result == null)
+            //{
+            //    Console.WriteLine("null");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"Name: {result.ProductName}, Price: {result.UnitPrice}");
+            //}
+            #endregion
         }
     }
 }
