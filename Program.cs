@@ -59,6 +59,25 @@
             //    Console.WriteLine($"Category: {item.Category}, Count: {item.Count}");
             //}
             #endregion
+
+
+
+            #region Question 7
+            //var result = ProductList.GroupBy(p => p.Category)
+            //                       .Select(g => new { Category = g.Key, Products = g.Select(p => p.ProductName) });
+
+            //foreach (var group in result)
+            //{
+            //    Console.WriteLine($"Category: {group.Category}");
+            //    foreach (var name in group.Products)
+            //    {
+            //        Console.WriteLine($"  - {name}");
+            //    }
+            //}
+            #endregion
+
+
+
         }
     }
 }
