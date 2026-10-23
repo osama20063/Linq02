@@ -23,6 +23,16 @@
             //}
             #endregion
 
+
+            #region Question 3
+            //var result = ProductList.TakeWhile(p => p.UnitPrice < 25);
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"Name: {item.ProductName}, Price: {item.UnitPrice}");
+            //}
+            #endregion
+
         }
     }
 }
