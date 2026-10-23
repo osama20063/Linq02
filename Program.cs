@@ -196,6 +196,16 @@
             //    Console.WriteLine($"Name: {result.ProductName}, Price: {result.UnitPrice}");
             //}
             #endregion
+
+
+            #region Question 18
+            //var result = Enumerable.Range(1, 10).Select(i => new { Number = i, Multiple = i * 7 });
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"7 * {item.Number} = {item.Multiple}");
+            //}
+            #endregion
         }
     }
 }
