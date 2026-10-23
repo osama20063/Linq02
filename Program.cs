@@ -120,6 +120,16 @@
             //Console.WriteLine($"Cheapest Price: {minPrice}");
             //Console.WriteLine($"Most Expensive Price: {maxPrice}");
             #endregion
+
+
+            #region Question 12
+            //var result = ProductList.Select(p => p.Category).Distinct();
+
+            //foreach (var category in result)
+            //{
+            //    Console.WriteLine(category);
+            //}
+            #endregion
         }
     }
 }
