@@ -156,6 +156,19 @@
             //    Console.WriteLine(country);
             //}
             #endregion
+
+            #region Question 15
+            //var dictionary = ProductList.ToDictionary(p => p.ProductID);
+
+            //if (dictionary.TryGetValue(18, out var product))
+            //{
+            //    Console.WriteLine($"Name: {product.ProductName}, Price: {product.UnitPrice}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Product with ID 18 not found.");
+            //}
+            #endregion
         }
     }
 }
