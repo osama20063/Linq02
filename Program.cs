@@ -104,6 +104,14 @@
             //    Console.WriteLine($"Country: {item.Country}, Count: {item.Count}, TotalOrderValue: {item.TotalOrderValue}");
             //}
             #endregion
+
+
+            #region Question 10
+            //var result = ProductList.Sum(p => p.UnitsInStock);
+
+            //Console.WriteLine($"Total Units in Stock: {result}");
+            #endregion
+
         }
     }
 }
