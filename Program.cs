@@ -112,6 +112,14 @@
             //Console.WriteLine($"Total Units in Stock: {result}");
             #endregion
 
+
+            #region Question 11
+            //var minPrice = ProductList.Min(p => p.UnitPrice);
+            //var maxPrice = ProductList.Max(p => p.UnitPrice);
+
+            //Console.WriteLine($"Cheapest Price: {minPrice}");
+            //Console.WriteLine($"Most Expensive Price: {maxPrice}");
+            #endregion
         }
     }
 }
