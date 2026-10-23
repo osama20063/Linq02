@@ -226,6 +226,15 @@
             //}
             #endregion
 
+
+            #region Question 21
+            //var result = ProductList.Zip(CustomerList, (p, c) => $"{p.ProductName} sold to {c.CompanyName}");
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
