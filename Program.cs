@@ -40,6 +40,15 @@
             //Console.WriteLine(result);
             #endregion
 
+            #region Question 5
+            //int[] ids = { 3, 9, 13, 18 };
+
+            //bool result = ids.Contains(9);
+
+            //Console.WriteLine(result);
+            #endregion
+
+
         }
     }
 }
